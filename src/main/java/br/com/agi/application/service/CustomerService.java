@@ -1,8 +1,8 @@
 package br.com.agi.application.service;
 
 import br.com.agi.domain.model.Customer;
-import br.com.agi.domain.port.in.CustomerUseCase;
-import br.com.agi.domain.port.out.CustomerRepositoryPort;
+import br.com.agi.application.port.in.CustomerUseCase;
+import br.com.agi.application.port.out.CustomerRepositoryPort;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

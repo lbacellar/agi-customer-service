@@ -1,7 +1,7 @@
 package br.com.agi.application.service;
 
 import br.com.agi.domain.model.Customer;
-import br.com.agi.domain.port.out.CustomerRepositoryPort;
+import br.com.agi.application.port.out.CustomerRepositoryPort;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

@@ -1,4 +1,4 @@
-package br.com.agi.domain.port.in;
+package br.com.agi.application.port.in;
 
 import br.com.agi.domain.model.Customer;
 

@@ -1,4 +1,4 @@
-package br.com.agi.infrastructure.controller;
+package br.com.agi.adapter.in;
 
 import br.com.agi.application.service.CustomerService;
 import br.com.agi.domain.model.Customer;

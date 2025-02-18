@@ -1,8 +1,8 @@
-package br.com.agi.infrastructure.adapter;
+package br.com.agi.adapter.out;
 
 import br.com.agi.domain.model.Customer;
-import br.com.agi.domain.port.out.CustomerRepositoryPort;
-import br.com.agi.infrastructure.repository.MongoCustomerRepository;
+import br.com.agi.application.port.out.CustomerRepositoryPort;
+import br.com.agi.adapter.out.repository.MongoCustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
