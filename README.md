@@ -1,6 +1,6 @@
 # agi-customer-service
 
-Serviço é responsável pelo cadastro dos clientes.
+Serviço responsável pelo cadastro dos clientes.
 
 
 # Documentação
